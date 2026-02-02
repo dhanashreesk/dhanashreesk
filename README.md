@@ -27,7 +27,7 @@ I'm a **Computer Engineering** student (2021–2025) from **Pune Institute of Co
 
 ## 💼 Work Experience  
 
-### **ION | Software Developer** *(January 2025 – Present)*  
+### **ION | Software Developer** *(January 2025 – December 2025)*  
 - Building scalable enterprise applications using Angular for the frontend.  
 - Designing robust backend services with Spring Framework including Spring Boot and Hibernate.  
 - Collaborating in Agile teams and delivering RESTful API-based solutions.  
