@@ -14,8 +14,6 @@ I'm a **Computer Engineering** student (2021–2025) from **Pune Institute of Co
 - **Backend**: Node.js, Express, Spring Boot, Hibernate, RESTful API  
 - **Testing**: Jest, React Testing Library, JUnit  
 
-### ☁️ Cloud Computing  
-- AWS | Azure  
 
 ### 🗄️ Databases  
 - MySQL | MongoDB  
